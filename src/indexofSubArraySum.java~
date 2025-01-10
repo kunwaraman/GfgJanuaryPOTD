@@ -1,6 +1,6 @@
 import java.util.*;
 // ps: https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
-// time complexity O(n)
+// time complexity o(n)
 // space complexity 0(1) not consider res as a space
 
 public class indexofSubArraySum {
