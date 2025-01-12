@@ -21,5 +21,6 @@ public class TrappingRainWater {
             total+=(Math.min(leftmax[i],rightmax[i])-arr[i]);
         }
         return total;
+        // not day12
     }
 }
